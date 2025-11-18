@@ -23,7 +23,3 @@
 
 - The thread will be in `Runnable` state only when we do a `.start()` or call this method
 
-
-
-
-
